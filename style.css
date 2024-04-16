@@ -1,0 +1,19 @@
+table,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: pink;
+}
+table{
+    width: 100%;
+}
+span
+{
+    color: darkblue;
+}
+.red{
+    color:darkred;
+}
+.state{
+    width: 100px;
+    
+}
